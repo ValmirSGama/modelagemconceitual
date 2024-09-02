@@ -9,5 +9,4 @@ public class ModelagemconceitualApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ModelagemconceitualApplication.class, args);
 	}
-
 }

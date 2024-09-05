@@ -10,8 +10,10 @@
 Este repositório implementa um sistema de e-commerce com uma modelagem conceitual detalhada, utilizando **Spring Boot**, **JPA/Hibernate** e **MySQL** como banco de dados relacional. O projeto segue boas práticas de desenvolvimento e arquitetura, com um foco especial em relacionamentos entre entidades como **Pedido**, **Produto**, **Categoria**, e **Cliente**.
 
 **Diagrama de Classe**
+![diagrama de classe](Image/Diagrama%20de%20Classe.png)
 
 **Diagrama de Objetos**
+![diagrama de objetos](Image/Diagrama%20de%20Objetos.png)
 
 ### Funcionalidades principais:
 - Cadastro de clientes e produtos

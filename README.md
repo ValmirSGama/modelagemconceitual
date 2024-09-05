@@ -7,7 +7,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ValmirSGama/modelagemconceitual)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ValmirSGama/modelagemconceitual)
 
-Este repositório implementa um sistema de e-commerce com uma modelagem conceitual detalhada, utilizando **Spring Boot**, **JPA/Hibernate** e **MySQL** como banco de dados relacional. O projeto segue boas práticas de desenvolvimento e arquitetura, com um foco especial em relacionamentos entre entidades como **Pedido**, **Produto**, **Categoria**, e **Cliente**.
+Este repositório implementa um sistema de e-commerce com uma modelagem conceitual detalhada, utilizando **Spring Boot**, **JPA/Hibernate** e **H2** como banco de dados de testes. O projeto segue boas práticas de desenvolvimento e arquitetura, com um foco especial em relacionamentos entre entidades como **Pedido**, **Produto**, **Categoria**, e **Cliente**.
 
 **Diagrama de Classe**
 ![diagrama de classe](Image/Diagrama%20de%20Classe.png)
@@ -25,7 +25,7 @@ Este repositório implementa um sistema de e-commerce com uma modelagem conceitu
 - **Java**
 - **Spring Boot**
 - **JPA/Hibernate**
-- **MySQL**
+- **H2**
   
 Sinta-se à vontade para clonar o repositório e testar!
 
